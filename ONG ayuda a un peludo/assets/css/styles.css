@@ -1,0 +1,42 @@
+/*Comando para centrado de header.*/
+header h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+h2{
+    text-align: center;
+    align-items: center;
+}
+.div2{
+        text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{ 
+    text-align: center;
+}
+.body1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.izquierda{
+    align-items: center;
+    padding: 0;
+    justify-items: right;
+}
+/*Centrado para las listas*/
+.Centrar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+}
+/*Centrado a la derecha para los nav*/
+.navcenter{
+    float: right;
+    justify-items: right;
+}
